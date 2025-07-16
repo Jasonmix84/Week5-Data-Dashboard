@@ -1,0 +1,12 @@
+th, td {
+  padding: 15px;
+}
+
+tr {
+  border-bottom: 1px solid #ddd;
+}
+
+.app-layout {
+  dwidth: 100%;
+  height: 100%;
+}
